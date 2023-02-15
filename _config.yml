@@ -1,0 +1,75 @@
+---
+name: NumberMagics
+title: NumberMagics - Generator
+email: marketing@NumberMagics.com
+address: "Noida"
+phone: ""
+tagline: numbermagics - Random number, Flip a coin, Head or Tail
+description: numbermagics provides many magics with numbers
+baseurl: ""
+permalink: /blog/:title
+theme: appscms-tools-theme
+url: https://numbermagics.com
+siteurl: https://numbermagics.com
+alternateName: NumberMagics
+copyright_text: Copyright ©2020 numberMagics
+facebook_username: https://www.facebook.com/profile.php?id=100069288283211
+twitter_username: https://twitter.com/numbermagicscom
+linkedin_username: https://www.linkedin.com/in/numbermagics/
+instagram_username: https://www.instagram.com/numbermagicscom/
+favicon: /assets/images/numbermagics.svg
+logo: /assets/images/numbermagics.svg
+paginate: "12"
+paginate_path: "/blog/page:num/"
+customblogdata: true
+sass:
+  sass_dir: _sass
+  style: compressed
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+disqus:
+  shortname: NumberMagic
+production_google_analytics: "UA-179965937-24"
+development_google_analytics: ""
+hero: product_fixed_image
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+whitelist:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+getform_id:
+mailchimp:
+  user-id:
+  list-id:
+company_url: https://numbermagic.com
+google_site_verificatcomn:
+bing_site_verificatcomn:
+yandex_site_verificatcomn:
+naver_site_verificatcomn:
+twitter:
+  username:
+facebook:
+  username:
+  app_id:
+  publisher:
+og_image:
+social:
+  type:
+  name:
+  links:
+analytics:
+  provider: false
+  google:
+    tracking_id:
+    anonymize_ip:
+timezone:

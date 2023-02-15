@@ -1,0 +1,57 @@
+{
+     "Language": "English",
+     "htmlLangAtt": "en",
+     "H1": "Online piano",
+     "H2": "",
+     "nofileupload": true,
+     "variant": "primary",
+     "TITLE": "",
+     "META": "",
+     "LABEL": "",
+     "BREADCRUMB_LABEL": "",
+     "color": "blue",
+     "TEXTUAL_CONTENT": [
+       {
+         "priority": 1,
+         "logoUrl": "/assets/images/lightbulb.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/images/target.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/images/cross.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/images/shield.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/images/fast.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/images/cloud_new.svg",
+         "header": "",
+         "content": ""
+       }
+     ],
+     "FAQ": [{ "question": "", "answer": "" }],
+     "jscdns": [
+      "<script src='/assets/js/script.js'></script>"
+    ],
+    "csscdns": ["<link rel='stylesheet' href='/assets/css/style1.css' />"]
+   }
+   

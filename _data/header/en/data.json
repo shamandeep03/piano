@@ -1,0 +1,174 @@
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "/assets/images/numbermagics.svg",
+  "navbarBrandLogoWidth": "42px",
+  "navbarBrandLogoHeight": "42px",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "Number tools",
+        "links":  [
+          {
+            "url":"convert-ascii-to-hex",
+            "name":"convert ascii to hex"
+          },
+          {
+            "url":"convert-hex-to-ascii",
+            "name":"convert hex to ascii"
+          },
+          {
+            "url":"convert-utf8-to-hex",
+            "name":"convert utf8 to hex"
+          },
+          {
+            "url":"convert-hex-to-utf8",
+            "name":"convert hex to utf8"
+          },
+          {
+            "url":"generate-random-hex-numbers",
+            "name":"generate random hex numbers"
+          },
+          {
+            "url":"shuffle-hex-digits",
+            "name":"shuffle hex digits"
+          },
+          {
+            "url":"rotate-hex-digits",
+            "name":"rotate hex digits"
+          },
+          {
+            "url":"reverse-hex-digits",
+            "name":"reverse hex digits"
+          }
+        ]
+      },
+      {
+        "categoryName": "Number tools",
+        "links": [
+          {
+            "url":"convert-hex-to-image",
+            "name":"convert hex to image"
+          },
+          {
+            "url":"convert-hex-to-roman-numeral",
+            "name":"convert hex to roman numeral"
+          },
+          {
+            "url":"convert-roman-numeral-to-hex",
+            "name":"convert roman numeral to hex"
+          },
+          {
+            "url":"convert-hex-to-decimal",
+            "name":"convert hex to decimal"
+          },
+          {
+            "url":"convert-decimal-to-hex",
+            "name":"convert decimal to hex"
+          },
+          {
+            "url":"convert-hex-to-octal",
+            "name":"convert hex to octal"
+          },
+          {
+            "url":"convert-octal-to-hex",
+            "name":"convert octal to hex"
+          },
+          {
+            "url":"convert-hex-to-binary",
+            "name":"convert hex to binary"
+          },
+          {
+            "url":"convert-binary-to-hex",
+            "name":"convert binary to hex"
+          },
+          {
+            "url":"convert-string-to-hex",
+            "name":"convert string to hex"
+          }]
+      },
+      {
+        "categoryName": "Number tools",
+        "links": [
+          {
+            "url":"convert-hex-to-string",
+            "name":"convert hex to string"
+          },
+          {
+            "url":"convert-ip-to-hex",
+            "name":"convert ip to hex"
+          },
+          {
+            "url":"convert-hex-to-ip",
+            "name":"convert hex to ip"
+          },
+          {
+            "url":"convert-hex-to-ip",
+            "name":"convert hex to ip"
+          },
+            {
+              "url":"convert-hex-to-rgb",
+              "name":"convert hex to rgb"
+            },
+            {
+              "url":"convert-rgb-to-hex",
+              "name":"convert rgb to hex"
+            },
+            {
+              "url":"convert-hex-to-gray-code",
+              "name":"convert hex to gray code"
+            },
+            {
+              "url":"convert-gray-code-to-hex",
+              "name":"convert gray code to hex"
+            },
+            {
+              "url":"convert-hex-to-bcd",
+              "name":"convert hex to bcd"
+            },
+            {
+              "url":"convert-bcd-to-hex",
+              "name":"convert bcd to hex"
+            },
+            {
+              "url":"add-hex-numbers",
+              "name":"add hex numbers"
+            },
+            {
+              "url":"multiply-hex-numbers",
+              "name":"multiply hex numbers"
+            },
+            {
+              "url":"convert-text-to-hex",
+              "name":"convert text to hex"
+            },
+            {
+              "url":"convert-hex-to-text",
+              "name":"convert hex to text"
+            },
+            {
+              "url":"and-hex-numbers",
+              "name":"and hex numbers"
+            },
+            {
+              "url":"nand-hex-numbers",
+              "name":"nand hex numbers"
+            },
+            {
+              "url":"or-hex-numbers",
+              "name":"or hex numbers"
+            },
+            {
+              "url":"xor-hex-numbers",
+              "name":"xor hex numbers"
+            }]
+      }
+    ]
+  },
+  "navItems": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ]
+}

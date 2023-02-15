@@ -1,0 +1,263 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Free Online Hexadecimal numbers Tools - numbermagics.com",
+  "h2": "Explore fun number related tools",
+  "TITLE": "Free Online Number Tools - numbermagics.com",
+  "META": "Numbermagics provides many magics with numbers",
+  "keywords": "",
+  "features": [
+    {
+      "url": "/convert-ascii-to-hex",
+      "name": "convert ascii to hex",
+      "description": "Tool for convert ascii to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-ascii",
+      "name": "convert hex to ascii",
+      "description": "Tool for convert hex to ascii",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-utf8-to-hex",
+      "name": "convert utf8 to hex",
+      "description": "Tool for convert utf8 to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-utf8",
+      "name": "convert hex to utf8",
+      "description": "Tool for convert hex to utf8",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/generate-random-hex-numbers",
+      "name": "generate random hex numbers",
+      "description": "Tool for generate random hex numbers",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/shuffle-hex-digits",
+      "name": "shuffle hex digits",
+      "description": "Tool for shuffle hex digits",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/rotate-hex-digits",
+      "name": "rotate hex digits",
+      "description": "Tool for rotate hex digits",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/reverse-hex-digits",
+      "name": "reverse hex digits",
+      "description": "Tool for reverse hex digits",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-image",
+      "name": "convert hex to image",
+      "description": "Tool for convert hex to image",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-roman-numeral",
+      "name": "convert hex to roman numeral",
+      "description": "Tool for convert hex to roman numeral",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-roman-numeral-to-hex",
+      "name": "convert roman numeral to hex",
+      "description": "Tool for convert roman numeral to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-decimal",
+      "name": "convert hex to decimal",
+      "description": "Tool for convert hex to decimal",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-decimal-to-hex",
+      "name": "convert decimal to hex",
+      "description": "Tool for convert decimal to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-octal",
+      "name": "convert hex to octal",
+      "description": "Tool for convert hex to octal",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-octal-to-hex",
+      "name": "convert octal to hex",
+      "description": "Tool for convert octal to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-binary",
+      "name": "convert hex to binary",
+      "description": "Tool for convert hex to binary",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-binary-to-hex",
+      "name": "convert binary to hex",
+      "description": "Tool for convert binary to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-string-to-hex",
+      "name": "convert string to hex",
+      "description": "Tool for convert string to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-string",
+      "name": "convert hex to string",
+      "description": "Tool for convert hex to string",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-ip-to-hex",
+      "name": "convert ip to hex",
+      "description": "Tool for convert ip to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-ip",
+      "name": "convert hex to ip",
+      "description": "Tool for convert hex to ip",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-ip",
+      "name": "convert hex to ip",
+      "description": "Tool for convert hex to ip",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-rgb",
+      "description": "Tool for convert hex to rgb",
+      "name": "convert hex to rgb",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-rgb-to-hex",
+      "description": "Tool for convert rgb to hex",
+      "name": "convert rgb to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-gray-code",
+      "description": "Tool for convert hex to gray code",
+      "name": "convert hex to gray code",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-gray-code-to-hex",
+      "description": "Tool for convert gray code to hex",
+      "name": "convert gray code to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-bcd",
+      "description": "Tool for convert hex to bcd",
+      "name": "convert hex to bcd",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-bcd-to-hex",
+      "description": "Tool for convert bcd to hex",
+      "name": "convert bcd to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/add-hex-numbers",
+      "description": "Tool for add hex numbers",
+      "name": "add hex numbers",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/multiply-hex-numbers",
+      "description": "Tool for multiply hex numbers",
+      "name": "multiply hex numbers",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-text-to-hex",
+      "description": "Tool for convert text to hex",
+      "name": "convert text to hex",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/convert-hex-to-text",
+      "description": "Tool for convert hex to text",
+      "name": "convert hex to text",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/and-hex-numbers",
+      "description": "Tool for and hex numbers",
+      "name": "and hex numbers",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/nand-hex-numbers",
+      "description": "Tool for nand hex numbers",
+      "name": "nand hex numbers",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/or-hex-numbers",
+      "description": "Tool for or hex numbers",
+      "name": "or hex numbers",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    },
+    {
+      "url": "/xor-hex-numbers",
+      "description": "Tool for xor hex numbers",
+      "name": "xor hex numbers",
+      "icon": "/assets/images/home.png",
+      "color": "blue"
+    }
+  ]
+}
