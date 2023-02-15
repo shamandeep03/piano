@@ -134,7 +134,7 @@
      color: #11b0eb;
      font-size: 12px;
    }
-   ul li span{
+   ul li .white-key{
      width: 100% !important;
    }
    .piano {
