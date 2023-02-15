@@ -134,6 +134,9 @@
      color: #11b0eb;
      font-size: 12px;
    }
+   ul li span{
+    margin-right: auto !important;
+   }
    ul li .white-key{
      width: 100% !important;
    }
@@ -204,6 +207,7 @@
      top: 0px;
      right: -40%;
      width: 70%;
+     left: auto !important;
      z-index: 1;
    }
    .key .black-key:active,
