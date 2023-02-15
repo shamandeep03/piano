@@ -135,6 +135,7 @@
      font-size: 12px;
    }
    ul li span{
+    position: absolute !important;
     margin-right: auto !important;
    }
    ul li .white-key{
