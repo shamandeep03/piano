@@ -91,9 +91,8 @@
     overflow: auto;
     position: relative;
    }
-   .piano-area::-webkit-scrollbar {
-    width: 5px;
-    border-radius:3px;
+   .piano-area ::-webkit-scrollbar {
+    height: 5px;
   }
   
   /* Track */
@@ -189,6 +188,7 @@
      padding: 0 1% 3%;
      text-align: center;
      min-height: 350px;
+     min-width: 800px;
    }
    .key {
      display: inline-block;
