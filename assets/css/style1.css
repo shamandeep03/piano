@@ -86,6 +86,30 @@
    p {
      margin-bottom: 15px;
    }
+   .piano-area{
+    min-height: 350px;
+    overflow: auto;
+    position: relative;
+   }
+   .piano-area::-webkit-scrollbar {
+    width: 5px;
+    border-radius:3px;
+  }
+  
+  /* Track */
+  .piano-area::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  .piano-area::-webkit-scrollbar-thumb {
+    background: #c1c1c1; 
+  }
+  
+  /* Handle on hover */
+  .piano-area::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
    .wrap {
      position: relative;
    }
